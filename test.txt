@@ -1,0 +1,12 @@
+*** Settings ***
+Library  pythonLibrary.py     #importing selenium library
+
+
+*** Variables ***
+${test}  venkusai          #setting up browser to chrome
+${URL}  http://www.google.com
+
+*** Test Cases ***
+TC1      #Test case name
+    runTestcase   test.py
+
