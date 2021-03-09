@@ -10,3 +10,5 @@ ${URL}  http://www.google.com
 TC1      #Test case name
     runTestcase   test.py
 
+TC2     #Test case name
+    runTestcase   test2.py
