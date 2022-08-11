@@ -1,2 +1,2 @@
 #Basic robot suite test case
-print "Robot suite running successfully"
+print ("Robot suite running successfully")
