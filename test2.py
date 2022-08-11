@@ -1,1 +1,1 @@
-print "Robot run successfully"
+print ("Robot run successfully")
