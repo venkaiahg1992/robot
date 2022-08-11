@@ -6,4 +6,4 @@ class pythonLibrary:
 
     def runTestcase(self,testcase):
         subprocess.call("python %s"%(testcase), shell=True)
-        print "Test Case Executed : %s"%(testcase)
+        print("Test Case Executed : %s"%(testcase))
