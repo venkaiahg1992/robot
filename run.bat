@@ -1,1 +1,1 @@
-robot test.txt
+python -m robot test.txt
